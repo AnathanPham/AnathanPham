@@ -1,7 +1,11 @@
-[![Ana's github stats](https://github-readme-stats.vercel.app/api?username=AnathanPham)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anathan "ana" (pronounced ɑːnɑː) Pham is an Australian professional Dota 2 player who is currently playing for OG.](https://huang-1257431785.cos.ap-chengdu.myqcloud.com/Ana_Kiev.jpg)
+
 
 <!--
 **AnathanPham/AnathanPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**[![Ana's github stats](https://github-readme-stats.vercel.app/api?username=AnathanPham)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
