@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Ana's github stats](https://github-readme-stats.vercel.app/api?username=AnathanPham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
